@@ -10,3 +10,4 @@ tox
 black
 flakes
 mypy
+-e .
